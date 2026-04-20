@@ -1,0 +1,501 @@
+id,nome,idade,cidade,profissao,salario,anos_experiencia,data_contratacao,avaliacao
+1,João,56,Rio de Janeiro,Motorista,2339.72,31,2023-12-02,3.39
+2,João,36,Fortaleza,Administrador,3618.52,12,2022-11-27,2.84
+3,João,53,Brasília,Designer,3471.1,31,2024-02-09,3.89
+4,Maria,47,Fortaleza,Analista de Dados,1884.98,24,2023-01-21,1.73
+5,João,38,Fortaleza,Administrador,4754.85,12,2023-07-15,3.1
+6,João,59,Recife,Enfermeiro,4846.46,39,2024-05-25,3.06
+7,Juliana,20,Timon,Enfermeiro,3500.41,0,2022-06-16,1.05
+8,Mariana,42,Salvador,Professor,3998.95,23,2024-02-16,1.06
+9,Ana,19,São Paulo,Designer,2277.95,0,2023-03-04,2.98
+10,Mariana,52,São Luís,Designer,5222.73,34,2024-07-20,1.73
+11,Mariana,21,Teresina,Enfermeiro,3250.64,0,2024-02-11,1.74
+12,Ana,35,Fortaleza,Analista de Dados,1200.0,8,2023-07-10,4.76
+13,Ana,53,Salvador,Designer,3886.16,28,2023-04-07,1.78
+14,Ana,57,Recife,Analista de Dados,3205.64,35,2023-12-21,3.99
+15,Mariana,41,Salvador,Analista de Dados,1383.99,15,2022-06-06,4.21
+16,Mariana,18,Teresina,Enfermeiro,1943.29,0,2024-04-18,2.69
+17,Lucas,18,Timon,Designer,3698.55,0,2023-02-23,4.09
+18,Carlos,22,Teresina,Enfermeiro,4065.3,0,2022-08-19,3.6
+19,João,45,Fortaleza,Analista de Dados,3397.52,26,2022-02-02,1.25
+20,Rafael,40,Teresina,Enfermeiro,4170.65,15,2024-03-15,3.92
+21,Carlos,57,Salvador,Administrador,3549.46,37,2023-09-05,4.89
+22,Mariana,20,Teresina,Motorista,1200.0,2,2022-01-05,3.25
+23,Rafael,31,São Paulo,Desenvolvedor,7046.76,4,2023-07-08,2.76
+24,Fernanda,49,São Paulo,Designer,1895.53,25,2022-08-29,2.26
+25,João,49,São Luís,Administrador,2061.54,25,2024-01-19,3.16
+26,Fernanda,46,São Luís,Professor,3508.73,25,2023-06-09,1.31
+27,Fernanda,39,Teresina,Vendedor,3351.67,13,2023-10-08,2.83
+28,João,37,Fortaleza,Desenvolvedor,4075.96,10,2022-12-14,2.43
+29,Carlos,50,Teresina,Desenvolvedor,4019.91,24,2023-09-20,2.41
+30,Lucas,20,Teresina,Desenvolvedor,1426.41,0,2023-12-11,3.04
+31,Carlos,26,São Paulo,Enfermeiro,5334.14,0,2023-11-15,1.98
+32,Maria,49,Recife,Professor,2816.0,24,2022-08-21,2.62
+33,Fernanda,29,Rio de Janeiro,Administrador,2977.74,11,2023-09-05,2.14
+34,Pedro,34,Recife,Enfermeiro,1200.0,16,2022-01-02,3.01
+35,Ana,40,São Luís,Motorista,3573.3,20,2023-09-30,1.58
+36,Juliana,43,Fortaleza,Designer,2689.17,20,2023-02-20,3.37
+37,Carlos,28,Salvador,Professor,1413.75,5,2022-10-07,2.88
+38,Maria,51,Recife,Professor,2198.1,28,2024-09-08,3.14
+39,Rafael,33,Brasília,Enfermeiro,2407.88,10,2023-04-09,1.16
+40,Pedro,37,São Paulo,Professor,4107.8,16,2023-02-07,3.84
+41,Pedro,36,Teresina,Administrador,2135.64,10,2024-07-17,2.59
+42,Juliana,56,Teresina,Enfermeiro,2676.08,37,2024-05-21,1.55
+43,Lucas,45,Salvador,Desenvolvedor,1994.9,18,2023-09-03,1.91
+44,Juliana,33,São Luís,Vendedor,3812.62,6,2023-09-16,3.22
+45,Mariana,19,São Luís,Analista de Dados,4200.58,0,2022-01-09,2.12
+46,Fernanda,36,Salvador,Enfermeiro,3182.91,16,2023-02-08,4.55
+47,Mariana,50,Rio de Janeiro,Enfermeiro,2183.97,25,2023-02-24,4.59
+48,Ana,37,Rio de Janeiro,Vendedor,3278.7,17,2022-04-22,1.41
+49,Rafael,52,São Luís,Vendedor,2828.41,32,2023-12-21,4.98
+50,Maria,53,Recife,Professor,1200.0,35,2023-08-03,1.95
+51,Juliana,38,São Paulo,Analista de Dados,2444.97,13,2022-05-15,3.88
+52,Mariana,50,Teresina,Vendedor,1665.0,30,2023-04-15,2.06
+53,João,47,São Luís,Vendedor,2907.48,24,2024-02-15,3.52
+54,Ana,51,Fortaleza,Analista de Dados,3409.38,29,2024-03-08,3.58
+55,Pedro,50,Recife,Desenvolvedor,3750.8,30,2023-05-31,1.1
+56,João,34,Brasília,Enfermeiro,1971.41,12,2023-06-02,2.48
+57,Juliana,58,Rio de Janeiro,Motorista,2846.87,36,2023-08-30,4.85
+58,Ana,50,Salvador,Motorista,3409.91,29,2022-07-10,2.22
+59,Fernanda,49,Rio de Janeiro,Desenvolvedor,2464.18,30,2024-03-03,2.58
+60,Carlos,20,Timon,Desenvolvedor,4027.68,0,2023-11-17,1.39
+61,Maria,49,Recife,Desenvolvedor,1622.74,22,2023-01-21,2.29
+62,Rafael,57,Fortaleza,Motorista,4667.52,39,2023-01-28,3.81
+63,Ana,56,Fortaleza,Enfermeiro,4086.15,36,2024-03-28,4.47
+64,Lucas,30,São Luís,Enfermeiro,2275.31,3,2024-06-21,3.01
+65,João,37,Salvador,Administrador,4597.06,17,2023-04-16,1.11
+66,Fernanda,51,Brasília,Desenvolvedor,4185.84,32,2024-03-10,3.31
+67,Lucas,39,Timon,Desenvolvedor,1903.9,16,2022-11-10,4.44
+68,Maria,59,Salvador,Vendedor,2453.96,36,2024-02-22,2.44
+69,Pedro,54,Recife,Designer,4872.46,32,2022-04-13,1.34
+70,Pedro,49,Rio de Janeiro,Motorista,3154.26,28,2022-12-16,3.16
+71,Ana,57,Rio de Janeiro,Designer,1200.0,39,2022-04-30,2.08
+72,Juliana,45,Timon,Desenvolvedor,3223.75,18,2024-08-08,2.0
+73,Ana,43,Rio de Janeiro,Desenvolvedor,2073.82,16,2023-09-26,1.63
+74,Pedro,51,Brasília,Motorista,4993.56,28,2023-07-14,1.73
+75,Lucas,18,Timon,Enfermeiro,5546.59,0,2024-08-20,1.99
+76,Lucas,33,Teresina,Professor,4238.96,13,2024-09-23,1.48
+77,Rafael,46,Salvador,Motorista,2715.13,19,2023-04-19,2.97
+78,Fernanda,56,Timon,Motorista,5246.41,35,2022-10-16,2.86
+79,Lucas,54,São Luís,Designer,4958.89,32,2022-04-10,1.18
+80,Rafael,48,Fortaleza,Enfermeiro,1283.83,21,2024-02-01,4.73
+81,João,49,Rio de Janeiro,Motorista,3485.97,28,2022-01-16,1.28
+82,João,19,Timon,Motorista,4091.69,1,2024-09-14,3.34
+83,Juliana,44,Timon,Enfermeiro,3729.41,24,2023-01-15,1.51
+84,Maria,54,Brasília,Motorista,4239.02,34,2023-07-31,4.84
+85,Fernanda,27,São Luís,Motorista,2197.23,8,2022-09-10,1.38
+86,Lucas,52,São Luís,Motorista,1958.3,28,2024-04-28,3.62
+87,Lucas,46,Timon,Desenvolvedor,2292.76,25,2024-04-05,3.79
+88,Juliana,28,Brasília,Motorista,4019.52,3,2023-02-24,2.67
+89,Carlos,53,São Paulo,Professor,3662.08,33,2023-11-20,3.93
+90,Ana,53,Fortaleza,Analista de Dados,2147.85,34,2024-09-25,3.32
+91,Juliana,40,Brasília,Desenvolvedor,4863.43,14,2024-05-16,1.41
+92,João,34,Teresina,Professor,2472.58,16,2022-03-03,2.99
+93,Carlos,42,Timon,Professor,3818.34,24,2023-09-04,1.04
+94,Mariana,58,Recife,Analista de Dados,2627.68,38,2022-03-17,2.42
+95,Ana,45,Salvador,Desenvolvedor,5294.78,23,2022-03-10,2.17
+96,Mariana,42,Recife,Desenvolvedor,4278.27,21,2024-06-09,1.85
+97,Fernanda,40,Recife,Designer,2588.89,18,2022-02-11,4.9
+98,Carlos,31,Salvador,Enfermeiro,3299.18,4,2022-05-13,3.95
+99,Carlos,46,Recife,Administrador,2009.4,20,2022-03-15,4.35
+100,João,34,São Luís,Vendedor,2614.34,11,2023-06-03,2.7
+101,Juliana,57,Brasília,Administrador,2434.75,35,2023-02-26,4.95
+102,Juliana,18,Brasília,Administrador,3278.46,0,2023-05-15,1.95
+103,Juliana,24,Recife,Analista de Dados,2137.87,1,2022-06-16,2.7
+104,Pedro,43,Recife,Desenvolvedor,2743.86,23,2022-02-08,2.74
+105,Pedro,30,São Paulo,Motorista,4732.5,9,2023-04-21,4.07
+106,Pedro,58,Rio de Janeiro,Professor,1200.0,34,2022-01-01,3.72
+107,Juliana,45,Timon,Vendedor,2869.49,27,2023-02-13,4.47
+108,Lucas,55,Fortaleza,Vendedor,3482.05,33,2022-05-14,4.21
+109,João,49,Recife,Motorista,1200.0,26,2022-08-01,4.97
+110,Juliana,54,São Luís,Administrador,3718.91,33,2022-08-15,3.78
+111,Pedro,35,Timon,Professor,2433.75,17,2023-01-08,3.79
+112,Rafael,20,Brasília,Analista de Dados,2332.58,0,2024-08-10,4.66
+113,Fernanda,27,Rio de Janeiro,Designer,5627.76,2,2022-05-02,1.75
+114,Juliana,43,São Paulo,Desenvolvedor,2030.04,18,2023-11-29,1.92
+115,Maria,45,São Luís,Analista de Dados,1200.0,24,2023-04-06,3.74
+116,Juliana,46,Recife,Designer,3434.97,26,2022-09-10,4.76
+117,Rafael,22,Teresina,Vendedor,1415.72,0,2024-03-08,4.46
+118,Juliana,22,Timon,Administrador,5197.75,0,2024-03-11,4.11
+119,Rafael,35,Brasília,Vendedor,1200.0,12,2024-04-06,4.37
+120,João,30,Timon,Motorista,4624.65,12,2023-09-02,1.15
+121,Rafael,18,Rio de Janeiro,Administrador,3410.95,0,2024-05-19,4.65
+122,Ana,40,Timon,Enfermeiro,5293.84,18,2023-07-19,4.78
+123,Juliana,27,Recife,Designer,1379.13,1,2024-05-27,2.01
+124,Juliana,30,Rio de Janeiro,Vendedor,2235.32,9,2023-03-22,4.51
+125,Pedro,57,Rio de Janeiro,Motorista,1200.0,32,2023-07-05,3.69
+126,Juliana,51,Recife,Analista de Dados,4533.21,28,2022-04-28,4.33
+127,Ana,29,São Paulo,Vendedor,2324.09,5,2022-07-26,4.14
+128,Juliana,31,Brasília,Designer,6047.11,12,2022-03-16,1.85
+129,Pedro,55,Rio de Janeiro,Professor,3243.74,36,2022-04-08,3.55
+130,João,32,Timon,Administrador,3059.49,12,2023-03-23,3.91
+131,Carlos,55,São Paulo,Motorista,4039.28,31,2022-04-16,4.45
+132,João,22,Recife,Designer,2875.71,1,2022-05-18,4.71
+133,Pedro,27,Fortaleza,Administrador,3153.65,8,2022-07-24,1.84
+134,Juliana,28,Teresina,Motorista,2422.39,8,2022-04-21,1.52
+135,Fernanda,33,Fortaleza,Vendedor,1678.5,8,2022-10-08,4.59
+136,Maria,20,Teresina,Analista de Dados,3585.21,1,2022-03-02,1.77
+137,Juliana,36,Fortaleza,Motorista,2396.12,9,2024-04-08,1.13
+138,Carlos,23,São Paulo,Analista de Dados,4254.38,5,2023-10-07,2.84
+139,Rafael,43,Teresina,Desenvolvedor,1537.81,16,2022-09-06,2.92
+140,João,39,Brasília,Desenvolvedor,1607.61,14,2022-12-16,1.63
+141,João,34,Timon,Designer,4021.63,16,2024-05-16,1.74
+142,Rafael,32,Recife,Motorista,2255.56,7,2023-12-27,1.94
+143,Carlos,45,São Luís,Analista de Dados,2248.17,18,2023-06-10,1.59
+144,Mariana,24,Teresina,Motorista,1200.0,4,2023-09-15,4.38
+145,Lucas,35,Rio de Janeiro,Desenvolvedor,4828.54,9,2023-09-23,2.51
+146,Ana,27,São Paulo,Designer,1200.0,3,2024-08-10,4.36
+147,Pedro,39,São Luís,Analista de Dados,2072.13,21,2023-06-09,3.37
+148,Juliana,21,Fortaleza,Analista de Dados,2579.05,0,2022-03-08,3.6
+149,Mariana,35,São Paulo,Enfermeiro,3092.84,16,2023-09-15,3.98
+150,Mariana,36,São Luís,Motorista,1966.46,9,2023-03-01,2.35
+151,Lucas,43,Teresina,Desenvolvedor,1301.76,20,2024-01-11,4.73
+152,Juliana,39,Salvador,Professor,3714.48,17,2023-12-11,2.46
+153,Lucas,21,São Paulo,Desenvolvedor,3956.98,0,2022-04-28,2.03
+154,Rafael,55,Salvador,Desenvolvedor,3174.24,35,2023-07-28,4.72
+155,Ana,32,Salvador,Designer,1200.0,10,2022-11-22,4.87
+156,Lucas,21,Fortaleza,Desenvolvedor,6140.04,1,2023-12-25,3.03
+157,Mariana,29,Fortaleza,Desenvolvedor,3311.67,6,2024-03-15,3.02
+158,Pedro,53,Rio de Janeiro,Enfermeiro,1914.82,33,2023-11-04,2.48
+159,Lucas,27,Teresina,Desenvolvedor,5396.41,8,2022-01-13,3.74
+160,Juliana,37,Fortaleza,Motorista,5380.79,19,2022-11-15,3.73
+161,Pedro,34,São Luís,Administrador,2913.99,11,2023-02-23,2.4
+162,Ana,22,Salvador,Enfermeiro,1771.42,3,2022-11-30,4.73
+163,João,28,Brasília,Professor,3103.91,5,2023-07-26,4.37
+164,Pedro,25,Rio de Janeiro,Analista de Dados,2813.19,0,2022-08-17,1.81
+165,Pedro,47,Timon,Designer,2469.08,27,2023-01-14,3.54
+166,Juliana,21,São Luís,Analista de Dados,3550.45,0,2024-01-19,3.35
+167,João,35,Rio de Janeiro,Vendedor,2699.85,15,2023-09-29,2.21
+168,Carlos,40,São Luís,Professor,4561.26,22,2023-10-27,2.42
+169,Fernanda,19,Brasília,Motorista,4070.89,0,2022-02-08,1.47
+170,Fernanda,23,Fortaleza,Enfermeiro,3114.74,3,2023-01-26,3.92
+171,Ana,59,São Paulo,Desenvolvedor,3406.2,41,2023-04-23,4.58
+172,Ana,53,Timon,Administrador,2501.65,30,2023-03-17,2.25
+173,Mariana,54,Rio de Janeiro,Enfermeiro,2403.77,33,2023-08-21,3.86
+174,Pedro,22,Timon,Enfermeiro,3465.41,0,2024-05-14,1.41
+175,Lucas,30,Brasília,Motorista,2676.15,5,2022-09-18,2.95
+176,Carlos,21,Teresina,Vendedor,1825.48,2,2023-02-15,3.56
+177,João,53,Brasília,Vendedor,1200.0,31,2023-10-22,1.73
+178,Fernanda,27,Fortaleza,Vendedor,3337.16,2,2023-07-04,1.91
+179,Mariana,40,Brasília,Analista de Dados,3785.24,13,2022-05-21,1.56
+180,Juliana,35,Salvador,Professor,2933.3,9,2024-09-19,1.07
+181,Mariana,29,Recife,Desenvolvedor,4445.96,2,2024-06-23,2.7
+182,Ana,46,Salvador,Vendedor,3806.91,21,2022-10-24,4.7
+183,Fernanda,40,Rio de Janeiro,Motorista,2604.87,13,2023-09-14,1.75
+184,Ana,40,Recife,Vendedor,2435.66,14,2022-01-01,4.48
+185,Juliana,57,Timon,Designer,1200.0,35,2022-05-17,1.82
+186,Pedro,43,Recife,Analista de Dados,4698.58,17,2024-03-13,2.59
+187,Juliana,42,Rio de Janeiro,Motorista,1200.0,24,2023-10-02,1.9
+188,João,41,São Paulo,Desenvolvedor,1200.0,15,2024-08-24,1.66
+189,Lucas,41,Teresina,Enfermeiro,4246.59,18,2023-10-28,1.05
+190,João,38,São Paulo,Professor,2162.14,20,2024-08-24,4.9
+191,Juliana,58,Teresina,Analista de Dados,2677.33,33,2023-07-15,2.2
+192,Ana,49,Brasília,Administrador,1672.17,25,2023-03-11,1.84
+193,Fernanda,36,Fortaleza,Motorista,2462.37,18,2023-03-05,2.51
+194,Maria,33,São Paulo,Designer,1200.0,8,2022-01-19,1.26
+195,Ana,31,Recife,Enfermeiro,3281.78,8,2024-09-14,2.92
+196,Mariana,47,Recife,Desenvolvedor,5181.62,24,2024-08-04,1.62
+197,Lucas,18,Timon,Desenvolvedor,2318.74,0,2024-03-10,2.09
+198,Pedro,36,Brasília,Professor,2734.17,17,2023-01-15,4.2
+199,Lucas,45,Fortaleza,Designer,4466.64,25,2024-09-10,1.78
+200,Carlos,25,Recife,Administrador,1200.0,2,2024-01-31,4.2
+201,Maria,20,Salvador,Administrador,3171.86,0,2023-02-22,4.22
+202,Ana,41,Rio de Janeiro,Administrador,4173.95,16,2024-03-24,4.32
+203,Pedro,21,Timon,Administrador,1200.0,2,2022-01-07,3.53
+204,Lucas,50,São Luís,Professor,1919.36,26,2022-03-26,1.11
+205,Maria,36,Salvador,Vendedor,1200.0,17,2024-06-15,4.27
+206,Juliana,37,Teresina,Vendedor,5117.62,10,2023-01-21,2.45
+207,Juliana,29,Recife,Enfermeiro,2429.36,3,2022-08-14,4.44
+208,João,52,Brasília,Vendedor,4218.82,31,2023-05-21,4.05
+209,Carlos,41,Timon,Designer,3199.7,17,2022-05-08,1.73
+210,Juliana,34,Timon,Desenvolvedor,1828.82,8,2023-07-06,3.8
+211,João,42,Teresina,Professor,2252.57,21,2023-10-28,3.1
+212,Carlos,51,Timon,Designer,2498.23,27,2024-03-15,1.07
+213,Carlos,35,Salvador,Vendedor,4616.1,9,2024-07-22,1.27
+214,Ana,54,São Luís,Designer,3152.15,28,2024-09-24,4.32
+215,Fernanda,40,Fortaleza,Desenvolvedor,1921.44,15,2023-09-02,3.4
+216,Rafael,24,Teresina,Professor,1908.44,0,2023-11-16,4.35
+217,Fernanda,38,Timon,Enfermeiro,3460.34,19,2024-04-01,3.95
+218,Rafael,53,Rio de Janeiro,Vendedor,1200.0,33,2024-03-04,1.27
+219,Juliana,28,Brasília,Vendedor,1892.12,10,2022-07-06,2.19
+220,Fernanda,52,Teresina,Analista de Dados,1377.98,29,2022-04-08,2.59
+221,Ana,41,Timon,Enfermeiro,3114.38,23,2024-02-01,1.12
+222,João,37,Salvador,Desenvolvedor,3214.84,17,2024-01-09,4.37
+223,Fernanda,34,São Paulo,Vendedor,6072.1,15,2022-07-20,4.08
+224,Maria,26,São Paulo,Analista de Dados,2884.73,0,2022-10-23,3.91
+225,Maria,42,Timon,Enfermeiro,3921.58,16,2022-02-08,1.3
+226,Fernanda,54,Salvador,Vendedor,4921.49,34,2023-04-23,1.02
+227,João,29,Teresina,Professor,2127.44,11,2024-08-14,4.16
+228,Maria,29,Fortaleza,Motorista,2702.98,4,2022-12-05,3.93
+229,Lucas,38,São Paulo,Desenvolvedor,3965.76,15,2022-07-19,2.0
+230,Pedro,42,Fortaleza,Enfermeiro,4116.3,15,2023-05-04,4.78
+231,Mariana,49,Rio de Janeiro,Analista de Dados,3515.54,25,2024-03-04,3.27
+232,Lucas,24,Teresina,Designer,3249.23,2,2023-06-03,2.19
+233,Juliana,25,Brasília,Designer,4354.88,1,2024-09-21,2.28
+234,João,59,Recife,Motorista,2903.5,35,2022-09-30,3.6
+235,Maria,41,Teresina,Motorista,2478.6,22,2022-05-11,3.79
+236,Carlos,57,Salvador,Motorista,2628.99,30,2022-07-02,2.62
+237,Pedro,56,Salvador,Vendedor,3495.08,33,2024-07-09,3.95
+238,Mariana,50,Timon,Designer,1200.0,23,2022-04-18,1.93
+239,Juliana,52,Timon,Enfermeiro,3098.74,32,2024-06-09,4.99
+240,João,46,Salvador,Professor,4278.58,28,2023-04-22,1.15
+241,Rafael,33,São Paulo,Analista de Dados,2465.4,9,2022-12-06,3.95
+242,Juliana,47,Timon,Vendedor,4744.06,29,2022-01-03,2.87
+243,Rafael,47,Rio de Janeiro,Enfermeiro,3545.48,25,2023-10-27,2.11
+244,Carlos,32,São Luís,Administrador,3892.85,6,2023-02-03,2.54
+245,Ana,41,Rio de Janeiro,Motorista,2221.74,18,2024-03-17,4.52
+246,Ana,41,Timon,Analista de Dados,3962.23,22,2022-06-02,3.97
+247,João,21,São Paulo,Analista de Dados,4400.52,0,2022-04-17,1.71
+248,Mariana,43,Recife,Desenvolvedor,4945.33,17,2024-01-23,4.83
+249,Lucas,23,Salvador,Administrador,3618.33,0,2023-11-20,3.07
+250,Mariana,37,Salvador,Vendedor,4433.02,10,2024-01-23,1.7
+251,João,59,São Paulo,Analista de Dados,1200.0,41,2022-08-04,4.59
+252,Carlos,52,Timon,Motorista,6800.85,29,2024-02-20,1.9
+253,Lucas,42,Timon,Professor,4857.01,23,2022-09-24,4.51
+254,Fernanda,20,Timon,Enfermeiro,5155.05,0,2022-07-14,4.82
+255,Rafael,29,Salvador,Professor,2917.17,3,2022-09-18,3.94
+256,Ana,51,Salvador,Motorista,2774.91,26,2022-05-04,2.49
+257,Carlos,25,São Luís,Designer,2717.45,6,2023-03-30,4.85
+258,Lucas,30,Teresina,Enfermeiro,3122.55,8,2024-08-30,4.4
+259,Fernanda,57,Salvador,Administrador,3051.93,37,2023-11-29,3.29
+260,Juliana,57,Fortaleza,Vendedor,4236.57,38,2022-02-09,3.26
+261,Carlos,50,São Luís,Designer,3288.03,25,2022-04-02,4.4
+262,Rafael,58,Fortaleza,Vendedor,3366.67,32,2023-11-24,3.72
+263,Ana,44,São Paulo,Enfermeiro,2220.97,17,2024-01-31,1.12
+264,Maria,40,Teresina,Enfermeiro,3576.67,13,2023-01-29,4.28
+265,Carlos,47,Timon,Motorista,4880.77,23,2024-08-19,2.15
+266,Maria,44,Fortaleza,Enfermeiro,3411.73,26,2022-08-21,3.53
+267,Mariana,48,Timon,Professor,2734.56,28,2023-02-18,1.07
+268,Carlos,58,Timon,Analista de Dados,3227.67,39,2024-04-10,2.57
+269,Juliana,32,Fortaleza,Professor,3210.65,13,2022-11-20,2.2
+270,Ana,34,Brasília,Designer,3490.21,11,2023-02-05,3.33
+271,Mariana,18,Rio de Janeiro,Enfermeiro,2296.14,0,2024-08-05,4.03
+272,Ana,24,Timon,Professor,5292.97,6,2023-10-08,2.49
+273,Maria,49,São Luís,Administrador,3878.55,22,2023-04-27,2.09
+274,Pedro,46,Fortaleza,Vendedor,4296.08,25,2024-09-03,1.41
+275,Carlos,58,Timon,Motorista,3528.02,37,2024-03-10,1.33
+276,Carlos,31,Rio de Janeiro,Analista de Dados,2397.53,10,2022-01-22,1.53
+277,Mariana,20,Salvador,Desenvolvedor,3780.24,0,2024-08-12,4.86
+278,Maria,36,Teresina,Administrador,2880.99,10,2023-03-29,4.94
+279,Maria,18,Rio de Janeiro,Designer,4396.18,0,2024-08-14,1.8
+280,Ana,42,Fortaleza,Administrador,1884.8,17,2023-06-08,3.25
+281,João,33,Timon,Motorista,1541.1,7,2023-10-19,1.36
+282,Juliana,25,Salvador,Analista de Dados,3185.1,6,2022-07-18,3.5
+283,João,41,São Luís,Administrador,3235.83,15,2024-01-04,1.47
+284,Fernanda,34,Brasília,Enfermeiro,3850.8,13,2024-01-10,3.23
+285,Pedro,39,Teresina,Administrador,1200.0,14,2023-08-07,2.24
+286,Pedro,30,São Luís,Enfermeiro,3677.64,12,2022-03-13,2.86
+287,Mariana,47,São Paulo,Desenvolvedor,2457.23,24,2023-06-28,3.63
+288,Juliana,42,Rio de Janeiro,Professor,1200.0,24,2022-04-12,4.63
+289,Mariana,28,Brasília,Vendedor,1839.63,10,2023-08-11,4.95
+290,Pedro,49,Fortaleza,Designer,2942.75,26,2022-03-27,1.84
+291,Ana,50,Recife,Vendedor,2734.84,32,2022-01-02,3.14
+292,Carlos,58,Teresina,Administrador,3032.26,40,2023-08-12,1.31
+293,Pedro,39,Recife,Vendedor,3758.54,20,2022-04-16,1.67
+294,Ana,57,Teresina,Analista de Dados,1825.48,37,2023-09-27,1.13
+295,Fernanda,23,Recife,Vendedor,4771.02,0,2023-01-05,4.74
+296,Carlos,25,Timon,Vendedor,4828.42,6,2024-05-09,4.21
+297,Mariana,24,Salvador,Motorista,3781.69,1,2022-11-10,4.14
+298,Maria,20,Rio de Janeiro,Analista de Dados,5371.85,0,2023-12-01,3.93
+299,Lucas,28,Timon,Analista de Dados,3780.34,2,2022-10-28,3.46
+300,Rafael,36,Fortaleza,Administrador,4880.82,12,2024-01-20,2.35
+301,Mariana,25,Brasília,Enfermeiro,2776.73,5,2024-03-22,3.22
+302,Ana,35,São Luís,Professor,4251.32,15,2023-10-24,2.33
+303,Maria,58,Recife,Vendedor,1987.95,38,2022-02-04,1.88
+304,Fernanda,32,Salvador,Analista de Dados,2983.74,14,2024-06-21,2.85
+305,Fernanda,47,Salvador,Analista de Dados,2889.89,22,2023-02-08,3.52
+306,Pedro,45,Brasília,Analista de Dados,3603.35,24,2024-08-13,1.16
+307,Juliana,49,Brasília,Professor,2508.65,30,2023-05-27,3.42
+308,Juliana,32,Salvador,Motorista,3091.94,13,2024-07-20,2.69
+309,Mariana,59,São Paulo,Administrador,1467.34,40,2023-07-06,4.34
+310,Ana,50,São Luís,Analista de Dados,1200.0,30,2024-03-04,3.86
+311,Juliana,47,Salvador,Desenvolvedor,2339.63,28,2023-01-10,2.65
+312,Juliana,55,Recife,Desenvolvedor,2194.05,29,2022-11-14,1.39
+313,Carlos,31,Fortaleza,Vendedor,1200.0,12,2024-01-13,1.65
+314,Rafael,42,Timon,Vendedor,3282.24,16,2022-01-28,2.03
+315,João,54,Brasília,Designer,3020.26,29,2023-11-07,4.88
+316,Ana,48,São Paulo,Enfermeiro,2887.48,21,2023-12-08,2.77
+317,Fernanda,33,Salvador,Motorista,1200.0,7,2022-09-14,2.8
+318,Pedro,25,Rio de Janeiro,Designer,3305.01,7,2022-11-09,1.67
+319,Juliana,37,Brasília,Enfermeiro,4685.45,15,2022-07-23,2.9
+320,Fernanda,45,Timon,Designer,1200.0,22,2023-09-12,3.16
+321,Maria,37,Teresina,Administrador,2914.08,15,2022-01-20,1.21
+322,Fernanda,18,Timon,Analista de Dados,2955.33,0,2022-02-04,2.81
+323,Juliana,22,Recife,Designer,3229.13,0,2022-10-03,4.95
+324,Fernanda,41,Timon,Vendedor,1926.52,22,2022-08-05,3.56
+325,Maria,56,Teresina,Professor,4197.61,37,2024-07-07,3.67
+326,Lucas,37,São Luís,Administrador,1200.0,13,2023-01-19,1.53
+327,Fernanda,33,Teresina,Professor,3076.63,8,2022-12-07,1.38
+328,João,25,Rio de Janeiro,Vendedor,3144.71,2,2023-06-01,4.85
+329,Carlos,51,Brasília,Desenvolvedor,2876.59,32,2022-05-25,4.32
+330,Lucas,57,Recife,Designer,2967.85,39,2023-08-11,1.45
+331,Fernanda,42,Rio de Janeiro,Professor,4326.63,22,2022-10-14,3.64
+332,Rafael,22,Teresina,Motorista,4424.44,0,2023-08-25,2.39
+333,Fernanda,19,Timon,Desenvolvedor,2923.03,0,2024-01-27,3.27
+334,Rafael,58,Teresina,Motorista,3394.51,37,2023-09-02,2.62
+335,Carlos,21,Recife,Vendedor,4256.3,2,2023-02-01,4.19
+336,João,36,Recife,Professor,3683.94,18,2022-12-10,2.19
+337,Mariana,24,Brasília,Analista de Dados,1466.37,2,2024-07-03,2.55
+338,Ana,42,São Paulo,Analista de Dados,1200.0,24,2022-11-01,3.18
+339,Ana,52,Timon,Analista de Dados,4970.42,25,2024-08-19,2.85
+340,Rafael,20,Salvador,Enfermeiro,4211.78,0,2024-03-04,4.81
+341,Ana,19,São Luís,Desenvolvedor,2454.91,0,2023-10-27,2.52
+342,Rafael,51,Teresina,Analista de Dados,2976.08,29,2024-09-01,3.13
+343,Juliana,32,São Luís,Designer,4226.93,13,2022-12-30,4.82
+344,Juliana,38,Brasília,Enfermeiro,1200.0,14,2023-09-11,1.03
+345,Fernanda,32,São Luís,Professor,3125.04,11,2024-02-28,2.92
+346,Rafael,36,São Luís,Professor,2924.89,17,2022-11-30,2.94
+347,Carlos,44,São Paulo,Administrador,3069.35,19,2022-05-24,1.36
+348,João,47,Brasília,Administrador,3923.59,28,2022-01-02,2.09
+349,Juliana,21,Salvador,Professor,3109.72,0,2022-12-17,4.44
+350,Rafael,56,São Luís,Vendedor,4577.28,32,2024-08-16,1.43
+351,Rafael,59,Timon,Analista de Dados,2012.85,36,2023-01-20,2.49
+352,Carlos,59,Rio de Janeiro,Administrador,2819.59,35,2024-07-06,4.28
+353,João,39,Teresina,Professor,4590.32,12,2024-09-10,2.64
+354,Ana,59,São Paulo,Designer,3506.42,34,2022-06-01,2.41
+355,Mariana,43,Fortaleza,Motorista,1971.27,18,2023-06-15,4.4
+356,Lucas,56,São Paulo,Professor,1730.04,29,2024-05-06,1.38
+357,Juliana,53,Teresina,Desenvolvedor,2706.24,31,2023-11-18,1.94
+358,Maria,51,Recife,Vendedor,1646.99,33,2023-09-23,3.14
+359,Fernanda,39,Salvador,Vendedor,3052.57,15,2022-06-09,3.55
+360,Lucas,26,Rio de Janeiro,Analista de Dados,2823.6,0,2022-09-11,1.57
+361,Lucas,52,São Paulo,Enfermeiro,5006.74,25,2023-01-09,2.78
+362,Pedro,58,Timon,Motorista,4107.52,40,2023-04-04,4.97
+363,Pedro,36,Brasília,Administrador,1200.0,12,2023-09-13,1.32
+364,João,57,Rio de Janeiro,Professor,4254.88,35,2022-12-19,3.38
+365,Fernanda,26,Teresina,Administrador,1679.06,0,2024-09-25,1.28
+366,Juliana,19,Timon,Desenvolvedor,2146.44,0,2023-03-04,1.93
+367,Juliana,38,São Paulo,Motorista,3757.55,18,2024-03-22,2.3
+368,Rafael,20,São Paulo,Desenvolvedor,1200.0,0,2024-04-17,1.21
+369,Rafael,19,Timon,Analista de Dados,1200.0,0,2024-03-22,1.36
+370,Rafael,22,Brasília,Professor,2245.29,0,2022-11-07,3.14
+371,Lucas,47,Recife,Desenvolvedor,4900.16,29,2023-02-04,3.66
+372,Rafael,37,Recife,Enfermeiro,2631.86,17,2023-10-18,2.53
+373,Carlos,40,Recife,Administrador,1689.22,18,2024-09-06,4.71
+374,Ana,18,Fortaleza,Vendedor,2620.31,0,2022-10-13,3.08
+375,Rafael,23,São Luís,Desenvolvedor,3975.96,5,2024-02-23,3.03
+376,Maria,51,Rio de Janeiro,Motorista,2176.42,30,2023-04-26,1.91
+377,João,19,Recife,Professor,1200.0,0,2024-08-26,3.04
+378,Lucas,20,Brasília,Enfermeiro,1571.22,0,2023-12-03,2.79
+379,Mariana,21,Fortaleza,Enfermeiro,3438.36,0,2022-09-01,1.83
+380,Rafael,59,São Luís,Enfermeiro,4682.49,36,2023-08-17,3.51
+381,Rafael,47,Brasília,Desenvolvedor,3682.13,26,2023-06-10,1.32
+382,João,38,Fortaleza,Desenvolvedor,3719.51,18,2023-08-01,1.62
+383,Mariana,52,Brasília,Analista de Dados,3033.82,25,2023-06-21,3.3
+384,Juliana,50,Rio de Janeiro,Motorista,2989.06,29,2022-04-05,2.95
+385,Lucas,33,Recife,Professor,2219.5,13,2023-04-28,2.59
+386,Juliana,42,São Luís,Motorista,3635.63,20,2023-04-27,1.27
+387,Carlos,51,São Paulo,Motorista,1200.0,30,2023-10-20,2.11
+388,Mariana,23,Teresina,Vendedor,3043.33,4,2022-03-01,2.46
+389,Pedro,48,Brasília,Motorista,2173.6,29,2022-09-10,3.48
+390,Ana,32,Timon,Desenvolvedor,2924.81,6,2024-09-09,1.96
+391,Maria,52,Brasília,Analista de Dados,2076.28,34,2022-09-17,3.53
+392,Lucas,57,Brasília,Vendedor,2327.45,39,2022-04-11,3.46
+393,Lucas,46,São Paulo,Desenvolvedor,3599.43,22,2023-11-21,1.52
+394,Fernanda,52,São Luís,Vendedor,5746.42,28,2022-06-04,2.66
+395,Ana,31,Recife,Analista de Dados,2512.56,9,2023-05-25,1.99
+396,João,44,São Luís,Professor,1605.23,22,2022-09-03,4.16
+397,Juliana,38,Salvador,Vendedor,2344.51,14,2024-06-19,1.86
+398,Rafael,38,Fortaleza,Professor,3470.16,11,2022-08-30,3.52
+399,João,35,Rio de Janeiro,Desenvolvedor,1334.46,13,2022-11-04,2.06
+400,Maria,43,Brasília,Administrador,2085.31,22,2023-06-30,2.3
+401,Ana,35,Recife,Designer,1200.0,14,2024-07-13,2.84
+402,João,38,Rio de Janeiro,Motorista,2466.07,11,2023-02-01,1.53
+403,Rafael,34,São Paulo,Desenvolvedor,3558.05,15,2023-07-26,1.31
+404,Carlos,50,São Paulo,Enfermeiro,3199.98,23,2022-08-30,1.15
+405,João,57,Brasília,Analista de Dados,5588.77,38,2024-02-15,4.58
+406,Rafael,25,Rio de Janeiro,Desenvolvedor,2273.14,7,2022-03-20,4.56
+407,João,40,Fortaleza,Vendedor,1570.45,22,2022-03-28,3.72
+408,Juliana,30,Teresina,Desenvolvedor,3075.22,5,2023-05-20,3.98
+409,Carlos,18,Salvador,Desenvolvedor,2037.01,0,2023-10-13,4.88
+410,Rafael,36,Rio de Janeiro,Administrador,4558.57,12,2023-05-14,1.74
+411,Rafael,22,Salvador,Vendedor,4506.24,0,2022-11-16,2.7
+412,João,49,Timon,Professor,3226.1,31,2022-08-11,4.13
+413,Maria,57,Rio de Janeiro,Enfermeiro,1293.83,38,2024-08-20,1.49
+414,Maria,21,São Luís,Vendedor,4801.6,0,2022-06-18,4.84
+415,Carlos,27,São Luís,Administrador,2227.78,2,2024-02-09,3.41
+416,Lucas,49,Teresina,Administrador,4113.41,30,2023-06-07,1.17
+417,Carlos,34,Timon,Motorista,1746.23,7,2024-09-11,1.65
+418,Mariana,47,Rio de Janeiro,Enfermeiro,1200.0,26,2023-12-26,3.7
+419,Ana,38,São Luís,Professor,4032.57,14,2022-02-08,4.39
+420,Pedro,58,São Luís,Motorista,2300.31,39,2022-05-29,4.02
+421,Maria,38,Timon,Vendedor,1447.73,15,2023-10-24,4.94
+422,Pedro,39,São Luís,Analista de Dados,3280.97,20,2024-02-09,1.53
+423,Mariana,32,Salvador,Vendedor,1564.68,9,2023-11-14,4.03
+424,Fernanda,50,Rio de Janeiro,Professor,2952.31,25,2023-05-30,2.19
+425,Maria,36,Recife,Desenvolvedor,4202.34,14,2022-04-21,1.64
+426,Maria,33,Timon,Enfermeiro,3246.03,8,2022-05-09,3.97
+427,Juliana,20,Recife,Designer,4545.58,0,2022-01-10,3.97
+428,Juliana,56,Recife,Enfermeiro,2492.63,37,2024-07-25,2.5
+429,Lucas,26,Recife,Desenvolvedor,2839.18,0,2022-11-10,1.14
+430,João,34,Rio de Janeiro,Vendedor,3017.63,8,2023-02-22,4.03
+431,Lucas,37,Salvador,Designer,1935.01,13,2022-03-11,4.51
+432,Rafael,54,Fortaleza,Enfermeiro,2475.05,27,2022-05-12,2.54
+433,Lucas,21,São Paulo,Vendedor,3706.87,1,2022-06-03,2.57
+434,João,38,Timon,Vendedor,3406.46,15,2024-09-26,1.71
+435,Pedro,27,Timon,Enfermeiro,1200.0,1,2024-07-29,1.37
+436,Pedro,24,Recife,Designer,4515.1,3,2022-08-09,3.57
+437,Fernanda,41,Recife,Professor,2736.31,20,2024-06-18,1.21
+438,Fernanda,41,São Luís,Professor,2619.81,22,2023-11-01,4.22
+439,Juliana,48,São Paulo,Vendedor,1809.19,23,2022-04-19,3.98
+440,Ana,55,São Paulo,Designer,3463.06,33,2024-07-15,4.3
+441,Carlos,36,Teresina,Vendedor,1629.97,12,2022-04-23,2.74
+442,Rafael,35,Recife,Enfermeiro,2767.61,14,2022-04-23,3.39
+443,Rafael,28,Timon,Administrador,1911.45,10,2023-02-05,3.55
+444,Fernanda,37,Fortaleza,Desenvolvedor,4267.99,14,2023-07-13,4.36
+445,Pedro,28,Teresina,Designer,3364.54,1,2022-02-19,1.66
+446,Maria,47,Timon,Desenvolvedor,1347.97,24,2023-12-11,3.07
+447,Fernanda,36,Brasília,Administrador,2440.76,16,2023-08-04,4.37
+448,Lucas,54,Teresina,Vendedor,1200.0,33,2022-02-18,2.74
+449,Fernanda,22,São Luís,Professor,4091.06,0,2022-10-22,2.99
+450,Juliana,18,Fortaleza,Enfermeiro,4713.64,0,2022-11-09,1.03
+451,Carlos,58,Timon,Motorista,3425.73,32,2023-06-27,4.69
+452,Carlos,42,Timon,Vendedor,1682.57,21,2023-12-26,1.28
+453,Mariana,59,Timon,Motorista,1828.35,39,2024-08-08,4.63
+454,Juliana,27,Recife,Desenvolvedor,1929.05,4,2024-09-17,2.8
+455,João,30,Recife,Enfermeiro,2138.61,9,2023-11-27,1.19
+456,Carlos,35,Salvador,Designer,2418.77,8,2024-05-24,1.56
+457,Juliana,21,Fortaleza,Motorista,4285.35,0,2023-10-01,1.95
+458,Maria,49,Teresina,Administrador,2126.21,24,2022-07-22,4.85
+459,Pedro,32,Brasília,Motorista,2689.92,5,2023-05-07,4.15
+460,João,31,Fortaleza,Professor,4112.07,5,2022-06-14,4.93
+461,Fernanda,35,Brasília,Professor,3535.2,13,2024-09-10,2.35
+462,Carlos,42,São Paulo,Vendedor,2156.07,20,2023-01-19,4.87
+463,Mariana,58,São Luís,Professor,2012.26,35,2022-10-16,3.09
+464,Mariana,51,São Luís,Vendedor,2802.98,24,2022-02-12,1.27
+465,João,39,Rio de Janeiro,Motorista,5608.49,16,2023-09-02,2.94
+466,Juliana,38,Salvador,Administrador,4128.39,16,2023-05-29,3.66
+467,Rafael,19,São Paulo,Enfermeiro,4959.18,0,2024-07-24,1.45
+468,Pedro,27,São Luís,Desenvolvedor,2686.91,7,2023-12-05,4.18
+469,Carlos,49,Recife,Enfermeiro,2149.16,28,2024-05-27,4.02
+470,Mariana,32,Fortaleza,Designer,2387.48,7,2024-01-14,4.51
+471,Fernanda,39,Fortaleza,Analista de Dados,2403.0,13,2023-11-11,4.94
+472,Carlos,43,Timon,Enfermeiro,2173.8,25,2023-03-23,3.21
+473,Ana,20,Salvador,Vendedor,3100.02,0,2022-08-15,1.42
+474,Rafael,40,Brasília,Motorista,4057.54,14,2023-01-14,2.52
+475,Pedro,36,São Paulo,Designer,1371.12,9,2022-01-08,2.15
+476,Carlos,45,Recife,Vendedor,2684.66,19,2022-06-13,2.11
+477,João,25,Recife,Designer,2463.21,0,2022-07-29,1.63
+478,Rafael,37,Fortaleza,Motorista,4537.22,14,2022-09-25,1.66
+479,Rafael,33,Recife,Desenvolvedor,2598.27,8,2023-09-05,3.93
+480,Fernanda,54,Timon,Designer,2515.62,33,2024-09-16,3.46
+481,Pedro,36,Brasília,Designer,3229.83,12,2022-01-16,4.95
+482,Ana,38,Rio de Janeiro,Motorista,3289.49,19,2022-09-17,4.99
+483,Ana,48,Salvador,Administrador,1965.7,26,2023-06-21,1.37
+484,Juliana,21,Fortaleza,Desenvolvedor,3436.26,0,2024-07-04,4.56
+485,Maria,22,Rio de Janeiro,Desenvolvedor,3580.53,0,2022-07-30,4.04
+486,Lucas,28,Rio de Janeiro,Analista de Dados,2717.5,9,2024-07-31,3.61
+487,João,26,Salvador,Enfermeiro,2890.6,6,2023-08-11,2.34
+488,Mariana,43,Rio de Janeiro,Analista de Dados,1200.0,21,2022-06-05,4.3
+489,João,50,Timon,Professor,2321.66,24,2022-11-03,2.8
+490,Ana,28,Salvador,Motorista,2507.15,2,2022-10-06,3.48
+491,João,39,Rio de Janeiro,Vendedor,3954.84,19,2022-10-16,1.51
+492,Maria,33,São Luís,Enfermeiro,3742.4,14,2022-03-07,2.26
+493,Lucas,45,Recife,Vendedor,1892.24,24,2022-05-04,4.97
+494,Lucas,40,Fortaleza,Designer,3604.58,20,2023-05-31,4.47
+495,João,55,Timon,Administrador,2286.76,29,2023-09-21,2.63
+496,João,31,Fortaleza,Professor,2769.21,10,2023-04-05,1.93
+497,Carlos,26,São Paulo,Vendedor,3761.67,7,2022-04-25,4.63
+498,Rafael,44,Fortaleza,Analista de Dados,4331.64,20,2023-03-19,1.44
+499,Fernanda,55,Teresina,Motorista,2313.24,35,2023-10-21,4.91
+500,Carlos,31,Fortaleza,Enfermeiro,1414.79,10,2024-05-30,1.17
